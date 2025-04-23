@@ -14,7 +14,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anaantonn&show_icons=true&theme=synthwave" />
 </a>
 <a href="https://github.com/anaantonn/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anaantonn&layout=compact&langs_count=8&card_width=420&theme=synthwave" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anaantonn&layout=compact&langs_count=8&card_width=450&theme=synthwave" />
 </a>
 
 <h3 align="left">Connect with me:</h3>
