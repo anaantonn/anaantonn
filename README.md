@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **improving my coding skills**
 
-- 🌱 I’m currently learning **frontend development**
+- 🌱 I’m currently learning **how to build my own applications**
 
 - ⚡ Fun fact **I love playing video games and watching movies**
 
