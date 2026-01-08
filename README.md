@@ -24,16 +24,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<a href="https://github.com/anaantonn/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anaantonn&show_icons=true&card_width=320&theme=synthwave" />
-</a>
-<a href="https://github.com/anaantonn/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anaantonn&layout=compact&langs_count=8&card_width=320&theme=synthwave" />
-</a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anton-ana-maria-9b986b211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anton-ana-maria-9b986b211" height="30" width="40" /></a>
 <a href="https://instagram.com/anaantonn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anaantonn" height="30" width="40" /></a>
 </p>
-
